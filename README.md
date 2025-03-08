@@ -1,6 +1,6 @@
 # 👨‍💻 Ángel Serrano – Full Stack Developer
 
-![GitHub Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcubettech.com%2Fresources%2Fblog%2Fneed-of-a-full-stack-developer-in-a-project-need-to-know%2F&psig=AOvVaw3tOm-9te102mbcciOpgpt3&ust=1741563611154000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjDsZrU-4sDFQAAAAAdAAAAABAT)
+![GitHub Banner]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fcubettech.com%2Fresources%2Fblog%2Fneed-of-a-full-stack-developer-in-a-project-need-to-know%2F&psig=AOvVaw3tOm-9te102mbcciOpgpt3&ust=1741563611154000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjDsZrU-4sDFQAAAAAdAAAAABAT](https://img.freepik.com/vector-premium/ilustracion-plana-full-stack-developer-adecuada-banners-web-infografias-libros-redes-sociales-otros-activos-graficos_210682-78.jpg))
 
 🚀 **Desarrollador Full Stack** con **5 años de experiencia** en el desarrollo de aplicaciones web escalables y optimizadas. Especializado en **PHP (Laravel, Slim), JavaScript (React.js, Backbone.js), HTML, CSS y MySQL**.
 
@@ -47,7 +47,6 @@
 
 📩 **Email:** [angelmserranog@gmail.com](mailto:angelmserranog@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/angelmserrano18](https://www.linkedin.com/in/angelmserrano18/)  
-💻 **Portafolio/GitHub:** [github.com/TuUsuario](https://github.com/TuUsuario)
 
 ---
 ✍️ *Siempre abierto a nuevas oportunidades y colaboraciones. ¡Hablemos!* 🚀
